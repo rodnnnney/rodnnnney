@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋🏼🤠Hey there, my name is Rodney!
+
+- 🧑🏻‍💻I'm currently interning at ITMZ doing fullstack mobile dev
+  
+- 📱My current side project is a mobile app to find restaurants
+  
+- 🌱I'm currently learning about 🎯🍃Dart/Flutter, 𝌤Dart packages, 📦AWS
+
 
 <!--
 **rodnnnney/rodnnnney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
