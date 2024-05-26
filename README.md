@@ -4,7 +4,7 @@
   
 - 📱My current side project is a mobile app to find restaurants
   
-- 🌱I'm currently learning about 🎯🍃Dart/Flutter, 𝌤Dart packages, 📦AWS
+- 🌱I'm currently learning about 🎯🍃Dart/Flutter, 𝌤Dart packages, and 📦AWS
 
 
 <!--
