@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻I'm currently interning at ITMZ doing fullstack mobile dev
   
-- 📱My current side project is a mobile app to find restaurants
+- 📱My current side project is a mobile app to find restaurants (super cliche ik)
   
 - 🌱I'm currently learning about 🎯Dart/Flutter and 📦AWS
 
