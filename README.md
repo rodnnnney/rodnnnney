@@ -1,10 +1,10 @@
 ## 👋🏼🤠Hey there, my name is Rodney!
 
-- 🧑🏻‍💻I'm currently interning at ITMZ doing fullstack mobile dev
+- 🧑🏻‍💻Work: ITMZ - fullstack mobile dev
   
-- 📱My current side project is a mobile app to find restaurants (super overdone ik)
+- 📱SideProject: Mobile app to find restaurants(super overdone ik)
   
-- 🌱I'm currently learning about 🎯Dart/Flutter and 📦AWS
+- 🌱Learning: 🎯Dart/Flutter and 📦AWS
 
 
 <!--
